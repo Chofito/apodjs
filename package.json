@@ -29,7 +29,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "apodjs",
+  "name": "@darksun/apodjs",
   "author": "Chofito",
   "module": "dist/apodjs.esm.js",
   "devDependencies": {
